@@ -1,0 +1,42 @@
+20
+apple
+trai tao
+turtle
+con rua
+watermelon
+trai dua hau
+mango
+trai xoai
+peach
+trai dao
+cat
+con meo
+lemon
+trai chanh vang
+goldfish
+con ca vang
+mouse
+con chuot
+coconut
+trai dua
+lion
+con su tu
+shark
+con ca map
+guava
+trai oi
+longan
+trai nhan
+strawberry
+trai dau tay
+avocado
+trai bo
+dog
+con cho
+rabbit
+con tho
+dolphin
+con ca heo
+parrot
+con vet
+
